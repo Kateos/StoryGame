@@ -1,0 +1,27 @@
+﻿@using StoryGame.Data.Models
+@model List<Adventure>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Adventures Page";
+}
+
+<h1 class="text-center">@ViewBag.MyTitle</h1>
+
+<div class="row justify-content-center">
+    <a class="btn btn-primary" asp-controller="Adventure" asp-action="Create">New adventure</a>
+</div>
+
+<h2 class="text-center small"> Your last adventures</h2>
+
+<div class="row">
+    @foreach (var adventure in Model)
+    {
+        <a href="#" class="card border m-2 text-center" style="width: 7rem;">
+            <div class="card-body">
+                @adventure.Title
+            </div>
+        </a>
+    }
+</div>

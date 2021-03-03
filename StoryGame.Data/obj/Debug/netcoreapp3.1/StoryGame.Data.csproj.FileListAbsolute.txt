@@ -1,0 +1,12 @@
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\bin\Debug\netcoreapp3.1\StoryGame.Data.deps.json
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\bin\Debug\netcoreapp3.1\StoryGame.Data.dll
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\bin\Debug\netcoreapp3.1\StoryGame.Data.pdb
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\obj\Debug\netcoreapp3.1\StoryGame.Data.AssemblyInfoInputs.cache
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\obj\Debug\netcoreapp3.1\StoryGame.Data.AssemblyInfo.cs
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\obj\Debug\netcoreapp3.1\StoryGame.Data.csproj.CoreCompileInputs.cache
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\obj\Debug\netcoreapp3.1\StoryGame.Data.dll
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\obj\Debug\netcoreapp3.1\StoryGame.Data.pdb
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\bin\Debug\netcoreapp3.1\StoryGame.Data.runtimeconfig.json
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\bin\Debug\netcoreapp3.1\StoryGame.Data.runtimeconfig.dev.json
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\obj\Debug\netcoreapp3.1\StoryGame.Data.genruntimeconfig.cache
+D:\DotNet_Tutos\Udemy\StoryGame.Net Core\StoryGame\StoryGame.Data\obj\Debug\netcoreapp3.1\StoryGame.Data.csprojAssemblyReference.cache
